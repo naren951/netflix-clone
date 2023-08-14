@@ -21,11 +21,13 @@
     width: 80px;
     left: 20;
     object-fit: contain;
+    cursor: pointer;
 }
 
 .nav_avatar {
     position: fixed;
     right: 20px;
+    cursor: pointer;
     width: 30px;
     object-fit: contain;
 }
